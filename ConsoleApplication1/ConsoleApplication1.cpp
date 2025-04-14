@@ -10,6 +10,7 @@ int main()
     int b=6;
     float k;
     float m = 4.5;
+    int c = a + b;
 
 }
 
