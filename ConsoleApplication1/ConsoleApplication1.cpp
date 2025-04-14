@@ -11,6 +11,8 @@ int main()
     float k;
     float m = 4.5;
     int c = a + b;
+    int q=8;
+
 
 }
 
