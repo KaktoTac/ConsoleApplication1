@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     int a=4;
     int b=6;
+    float k;
+    float m = 4.5;
 
 }
 
