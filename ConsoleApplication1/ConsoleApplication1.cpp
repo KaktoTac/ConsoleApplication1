@@ -16,6 +16,7 @@ int main()
     float abаc = 5.0;
     float mne;
     double cun;
+    float me;
 
 
 
